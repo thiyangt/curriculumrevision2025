@@ -2,3 +2,13 @@
   .reveal .slides section {
     font-size: 48px;
   }
+  
+ .reveal {
+    width: 98% !important; /* Ensures the slides take up most of the screen */
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+}
+
+.reveal .slides {
+    max-width: 98% !important; /* Ensures slide content stays within the 1% margin */
+}

@@ -1,12 +1,12 @@
 ---
-title: "BSc (Hons) Statistics  <br/> BSc (Statistics Subjects) <br/> Faculty of Applied sciences <br/> University of Sri Jayewardenepura <br/> Suggestions for Curriculum Revision<br/>Thiyanga S. Talagala"
+title: "BSc (Hons) Statistics <br/> BSc (Hons)  Applied Sciences  <br/> BSc (Statistics Subjects) <br/> Faculty of Applied sciences <br/> University of Sri Jayewardenepura <br/> Suggestions for Curriculum Revision<br/>Thiyanga S. Talagala"
 format:
   revealjs:
     css:
         - "custom.css"
-    width: 1600
-    height: 900
-    margin: 0.1
+    width: 2000
+    height: 1000
+    margin: 0.05
     theme: simple
     transition: slide
     background-transition: fade
@@ -32,7 +32,7 @@ editor: visual
 4. Industry Relevance/ Interdisciplinary courses
 
 
-#  Four-tier scaffolding approach
+##  Four-tier scaffolding approach
 
 1. Core Statistical Foundations<p style="color:red;">(First & Second Year) </p>
 
@@ -65,9 +65,9 @@ editor: visual
 
 <p style="color:blue;">**Introduce a new section**: Forms of Data:  Structured Data, Unstructured Data, Spatial, Temporal, and Spatio-Temporal</p>
 
-#
+---
 
-### STA 113 2.0 Descriptive Statistics
+STA 113 2.0 Descriptive Statistics
 
 1. **Introduction to Statistics**
 • Definition of statistics
@@ -101,8 +101,7 @@ deviation)
 • Association between two variables (cross tabulation, Pearson’s product moment correlation
 coefficient, Spearman’s rank correlation coefficient)
 • Tables (one way and two-way frequency tables, tables of summary measures)
-• Charts (simple and multiple, component, percentage component bar charts, pie charts, pictograms)
-• Graphs (line graphs, area graphs)
+• Data visualisations
 • Misuse of statistics
 
 
@@ -163,22 +162,88 @@ coefficient, Spearman’s rank correlation coefficient)
 
 4. Industry Relevance/ Interdisciplinary courses
 
-**Suggestions**
+<p style="color:blue;">**Suggestions**</p>
 
-- Move Section 1 and Section 2 to 2nd year curriculum
+- Move Section 1 and Section 2 to the 2nd year Data Analysis unit.
 
-##
+- Include new topics:  Data Quality Analysis, Debugging (Locating errors, Interactive-debugger, Non-interactive debugging), Measuring performance of a function, Improving performance of a function
 
-1. R programming basics: Objects in R, Data types, Operations, Installing packages, Control structures,
-Piping
+
+## STA 326 2.0 Programming and Data Analysis with R (Current course content)
+
+1. R programming basics: Objects in R, Data types, Operations, Installing packages, Control structures
+
 
 2. Writing functions in R
 
 
+3. Programming and Data analysis with the tidyverse
+
+    3.1. Data import and export
+
+    3.2. Data wrangling: Tidy data
+principles, Reshaping data into tidy form, Data transformation
+
+    3.3. Data visualization: The grammar of graphics
+
+    3.4. Statistical modelling and inference
+
+    3.5. Communication: Dynamic reproducible reporting
+---
+
+
+**STA 2XX 2.0 Introduction Programming and Data Analysis with R**
+
+1. R programming basics: Objects in R, Data types, Operations, Installing packages, Control structures
+
+
+2. Writing functions in R
+
+**STA 3XX 2.0 Advanced Data Analysis and Programming with R**
+
 
 3. Programming and Data analysis with the tidyverse
-3.1. Data import and export
-3.2. Data wrangling: Tidy data principles, Reshaping data into tidy form, Data transformation
-3.3. Data visualization: The grammar of graphics
-3.4. Statistical modelling and inference
-3.5. Communication: Dynamic reproducible reporting
+
+    3.1. Data import and export
+
+    3.2. Data wrangling: Tidy data
+principles, Reshaping data into tidy form, Data transformation
+
+    3.3. Data visualization: The grammar of graphics
+
+    3.4. Statistical modelling and inference
+
+    3.5. Communication: Dynamic reproducible reporting
+---
+
+**STA 3XX 2.0 Advanced Data Analysis and Programming with R**
+
+<p style="color:red;">New Topics</p>
+
+- Data Quality Analysis
+
+- Functional programming
+
+- Debugging (Locating errors, Interactive-debugger, Non-interactive debugging)
+
+- Measuring performance of a function 
+
+- Improving performance of a function 
+
+## New Units
+
+1. Core Statistical Foundations
+
+2. Applied and Emerging Areas
+
+3. Computational and Programming Skills
+
+<p style="color:blue;">STA 3xx 2.0 Introduction Programming and Data Analysis with Python</p>
+<p style="color:red;">**Option 1:** Optional for BSc(Hons) and BSc, To offer the unit, a minimum enrollment of 10 students is required. </p>
+
+<p style="color:red;">**Option 2:** Take the CSC unit </p>
+
+4. Industry Relevance/ Interdisciplinary courses
+
+<p style="color:blue;">STA 3xx 2.0 Data Mining for Business Analytics</p><p style="color:red;">Only for BSc and BSc (Hons) Applied Sciences not for BSc (Hons) in Statistics,  A minimum grade of C+ in STA 3XX 2.0 Advanced Data Analysis and Programming with R is required. </p>
+
