@@ -1,0 +1,184 @@
+---
+title: "BSc (Hons) Statistics  <br/> BSc (Statistics Subjects) <br/> Faculty of Applied sciences <br/> University of Sri Jayewardenepura <br/> Suggestions for Curriculum Revision<br/>Thiyanga S. Talagala"
+format:
+  revealjs:
+    css:
+        - "custom.css"
+    width: 1600
+    height: 900
+    margin: 0.1
+    theme: simple
+    transition: slide
+    background-transition: fade
+    slide-number: true
+    show-slide-number: all
+    title-slide-attributes: 
+      data-background-color: "#081d58"
+      data-background-image: none
+editor: visual
+---
+
+![](asa1.png)
+
+
+#  Four-tier scaffolding approach
+
+1. Core Statistical Foundations
+
+2. Applied and Emerging Areas
+
+3. Computational and Programming Skills
+
+4. Industry Relevance/ Interdisciplinary courses
+
+
+#  Four-tier scaffolding approach
+
+1. Core Statistical Foundations<p style="color:red;">(First & Second Year) </p>
+
+2. Applied and Emerging Areas<p style="color:red;">(Third & Fourth Year) </p>
+
+
+3. Computational and Programming Skills<p style="color:red;">(Throughout the Curriculum)</p>
+
+
+4. Industry Relevance/ Interdisciplinary courses<p style="color:red;"> (Electives/Third & Final)</p>
+
+##   Issues with STA 113 2.0 and STA 115 1.0
+
+1. Core Statistical Foundations
+
+<p style="color:blue;">STA 113 2.0 Descriptive Statistics</p>
+
+<p style="color:blue;">STA 115 1.0 Elements of Sampling</p>
+
+2. Applied and Emerging Areas
+
+3. Computational and Programming Skills
+
+4. Industry Relevance/ Interdisciplinary courses
+
+
+###
+
+<p style="color:blue;">**Issue:** Considerable amount of overlaps</p> <p style="color:blue;">**Suggestions:**<p style="color:blue;"> **Remove** "2. Data Collection" from STA 113 2.0 Descriptive Statistics</p>
+
+<p style="color:blue;">**Introduce a new section**: Forms of Data:  Structured Data, Unstructured Data, Spatial, Temporal, and Spatio-Temporal</p>
+
+#
+
+### STA 113 2.0 Descriptive Statistics
+
+1. **Introduction to Statistics**
+• Definition of statistics
+• Role of statistics in society
+• History of statistics, Branches of statistics
+• Scope and limitations of statistics
+• Terminology used in statistics
+
+2. **Data Collection**
+• Steps of data collection
+• Observational and experimental studies
+• Primary and secondary data
+• Population and sample
+• Sampling
+• Methods of collecting data
+
+
+3. **Exploring, Summarization and Presentation of Data**
+• Types of data
+• Scales of measurements
+• Exploring data (one way and two-way frequency tables, box plots, stem and leaf plots, histograms,
+scatter plots, time series plots)
+• Classification of data
+• Desirable properties of a summary measure
+• Measures of central tendency (mean, median, mean, weighted mean, harmonic mean, geometric
+mean, Quadratic mean)
+• Measures of dispersion (range, Inter quartile range, quartile deviation, variance, standard
+deviation)
+• Skewness and its measures of skewness (Pearson’s and Bowley’s)
+• Kurtosis
+• Association between two variables (cross tabulation, Pearson’s product moment correlation
+coefficient, Spearman’s rank correlation coefficient)
+• Tables (one way and two-way frequency tables, tables of summary measures)
+• Charts (simple and multiple, component, percentage component bar charts, pie charts, pictograms)
+• Graphs (line graphs, area graphs)
+• Misuse of statistics
+
+
+## Issues with STA 315 2.0 Essential Skills in Statistics
+
+
+1. Core Statistical Foundations
+
+<p style="color:blue;">STA 315 2.0 Essential Skills in Statistics</p>
+
+
+2. Applied and Emerging Areas
+
+3. Computational and Programming Skills
+
+4. Industry Relevance/ Interdisciplinary courses
+
+# 
+
+### Issues with STA 315 2.0 Essential Skills in Statistics
+
+
+1. Core Statistical Foundations
+
+<p style="color:blue;">~~STA 315 2.0 Essential Skills in Statistics~~</p>
+
+
+2. Applied and Emerging Areas
+
+<p style="color:blue;">STA 315 2.0 Statistical Thinking and Reasoning</p>
+
+
+3. Computational and Programming Skills
+
+
+
+4. Industry Relevance/ Interdisciplinary courses
+
+<p style="color:blue;">**Suggestions:**</p>
+
+<p style="color:blue;">**Name change to the unit:** as "Statistical Thinking and Reasoning" and and categorize it under tier 2</p>
+
+(Students seem to be mastering statistical procedures and vocabulary but are not able to use statistical reasoning in a meaningful way. This lack of students’ ability to reason and think statistically is of concern.)
+
+# 
+
+## STA 326 2.0 Programming and Data Analysis with R
+
+
+1. Core Statistical Foundations
+
+2. Applied and Emerging Areas
+
+
+3. Computational and Programming Skills
+
+<p style="color:blue;">STA 326 2.0 Programming and Data Analysis with R</p>
+
+4. Industry Relevance/ Interdisciplinary courses
+
+**Suggestions**
+
+- Move Section 1 and Section 2 to 2nd year curriculum
+
+##
+
+1. R programming basics: Objects in R, Data types, Operations, Installing packages, Control structures,
+Piping
+
+2. Writing functions in R
+
+
+
+3. Programming and Data analysis with the tidyverse
+3.1. Data import and export
+3.2. Data wrangling: Tidy data principles, Reshaping data into tidy form, Data transformation
+3.3. Data visualization: The grammar of graphics
+3.4. Statistical modelling and inference
+3.5. Communication: Dynamic reproducible reporting
